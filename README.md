@@ -38,13 +38,9 @@
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
 </div>
-
-<br>
-<p>
+ 
+ ------
+ <div style="display: inline_block">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdu4rte&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="lucasdu4rte" />
-</p>
-
-<p>
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdu4rte&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" alt="lucasdu4rte" />
-</p>
+</div>
