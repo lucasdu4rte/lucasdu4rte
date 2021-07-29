@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - I'm currently learning NestJS, GraphQL and ChakraUI
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
