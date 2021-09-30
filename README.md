@@ -42,5 +42,4 @@
  ------
  <div style="display: inline_block">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdu4rte&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="lucasdu4rte" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdu4rte&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" alt="lucasdu4rte" />
 </div>
